@@ -1,0 +1,49 @@
+body{
+	text-align:center;
+	font-family: Garamond, Georgia, serif;
+}
+h1{
+	line-height:1.5em;
+	font-size:2.5em;
+}
+p{
+	font-size:1.1em;
+	line-height:1.2em;
+}
+ol{
+	font-size:1.2em;
+	line-height:2em;
+	background-color: #dee8e8;
+	box-sizing: border-box;
+	width: 90%;
+	padding: 12px 20px;
+	margin: 2% 5%;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+}
+input[type=submit] {
+  width: 50%;
+  background-color: Blue;
+  color: white;
+  padding: 14px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+@media only screen and (min-width: 800px) {
+h1{
+	line-height:1.5em;
+	font-size:2.5em;
+}
+p{
+	font-size:1.1em;
+	line-height:1.2em;
+}
+ol{
+	font-size:1.2em;
+	line-height:1.8em;
+}
+input[type=submit] {
+  width: 400px;
+}
+}
+
