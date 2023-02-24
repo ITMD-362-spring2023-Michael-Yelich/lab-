@@ -1,43 +1,43 @@
 body{
-	text-align:center;
-	font-family: Garamond, Georgia, serif;
-	padding: .6em;
+  text-align:center;
+  font-family: Garamond, Georgia, serif;
+  padding: .6em;
 }
 h1{
-	line-height:1.5em;
-	font-size:2.4em;
-	margin: .17em 0em;
+  line-height:1.5em;
+  font-size:2.4em;
+  margin: .17em 0em;
 }
 p{
-	font-size:1.1em;
-	line-height:1.2em;
+  font-size:1.1em;
+  line-height:1.2em;
 }
 ol{
-	font-size:1.2em;
-	line-height:2em;
-	background-color: #dee8e8;
-	box-sizing: border-box;
-	width: 90%;
-	padding: .7em 1.2em;
-	margin: 5% 5%;
-	border: .06em solid #ccc;
-	border-radius: .35em;
+  font-size:1.2em;
+  line-height:2em;
+  background-color: #dee8e8;
+  box-sizing: border-box;
+  width: 90%;
+  padding: .7em 1.2em;
+  margin: 5% 5%;
+  border: .06em solid #ccc;
+  border-radius: .35em;
 }
 input[type=email]{
-  	width: 12em;
-	padding: .3em .3em;
-  	margin: 1.2em 1.2em;
-  	display: inline-block;
-  	border-radius: .23em;
-  	box-sizing: border-box;
+  width: 12em;
+  padding: .3em .3em;
+  margin: 1.2em 1.2em;
+  display: inline-block;
+  border-radius: .23em;
+  box-sizing: border-box;
 }
 input[type=checkbox]{
-	margin: 1.2em 0px;
-	width:1.2em;
-	height:1.2em;
-	vertical-align: middle;
-    position: relative;
-	bottom: .12em;
+  margin: 1.2em 0px;
+  width:1.2em;
+  height:1.2em;
+  vertical-align: middle;
+  position: relative;
+  bottom: .12em;
 }
 input[type=submit] {
   width: 50%;
@@ -53,17 +53,17 @@ input[type=submit]:hover {
 }
 @media only screen and (min-width: 800px) {
 h1{
-	line-height:1.5em;
-	font-size:2.5em;
-	margin:.5em;
+  line-height:1.5em;
+  font-size:2.5em;
+  margin:.5em;
 }
 p{
-	font-size:1.1em;
-	line-height:1.2em;
+  font-size:1.1em;
+  line-height:1.2em;
 }
 ol{
-	font-size:1.2em;
-	line-height:1.8em;
+  font-size:1.2em;
+  line-height:1.8em;
 }
 input[type=submit] {
   width: 23.5em;
@@ -71,5 +71,5 @@ input[type=submit] {
 ol{
 	
 }
-
+}
 
