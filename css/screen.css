@@ -29,6 +29,7 @@ input[type=email]{
   display: inline-block;
   box-sizing: border-box;
   color: #333333;
+  border:0em;
 }
 input[type=checkbox]{
   margin: 1.2em 0px;
@@ -37,6 +38,7 @@ input[type=checkbox]{
   vertical-align: middle;
   position: relative;
   bottom: .12em;
+  border:0em;
 }
 input[type=submit] {
   width: 50%;
@@ -45,6 +47,7 @@ input[type=submit] {
   padding: 14px 1.2em;
   cursor: pointer;
   margin: 1.2em 0em;
+  border:0em;
 }
 input[type=submit]:hover {
   	background-color:DarkGray;
